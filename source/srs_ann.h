@@ -12,8 +12,8 @@
 // - HNSW provides fast nearest-neighbour retrieval over stored "good" embeddings.
 // If hnswlib is unavailable, we fall back to brute-force cosine over stored winners.
 
-#if __has_include("third_party/hnswlib/hnswlib.h")
-  #include "third_party/hnswlib/hnswlib.h"
+#if __has_include("third_party/hnswlib/hnswlib/hnswlib.h")
+  #include "third_party/hnswlib/hnswlib/hnswlib.h"
   #define MLSYS_HAS_HNSWLIB 1
 #else
   #define MLSYS_HAS_HNSWLIB 0
