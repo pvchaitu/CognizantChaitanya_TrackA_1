@@ -1,0 +1,10 @@
+chaitanya@pvchaitu:~/CognizantChaitanya_TrackA_1/build$ ./mlsys in1.json out1.json
+Generated output in 0.00319835 seconds
+chaitanya@pvchaitu:~/CognizantChaitanya_TrackA_1/build$ ./mlsys in2.json out2.json
+Generated output in 0.00731773 seconds
+chaitanya@pvchaitu:~/CognizantChaitanya_TrackA_1/build$ ./mlsys in3.json out3.json
+Generated output in 0.0049037 seconds
+chaitanya@pvchaitu:~/CognizantChaitanya_TrackA_1/build$ ./mlsys in4.json out4.json
+Generated output in 0.0280535 seconds
+chaitanya@pvchaitu:~/CognizantChaitanya_TrackA_1/build$ ./mlsys in5.json out5.json
+Generated output in 0.00517837 seconds
